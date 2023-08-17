@@ -11,7 +11,7 @@
 
 //Ans
 let a ="Ahsan"
-console.log("Hello,",a, "would you like to learn some typeskript today?")
+console.log(`"Hello" ${a}"would you like to learn some typescript today?"`)
 
 //3. Name Cases: Store a person’s name in a variable, and then print that person’s name in lowercase, uppercase, and titlecase.
 //Ans
