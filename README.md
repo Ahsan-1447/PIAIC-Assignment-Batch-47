@@ -27,7 +27,7 @@ console.log(`Quaid-e-Azam said, "No power on earth that can undo Pakistan"`)
 //Ans
 let famous_person="Quaid-e-Azam"
 let message="No power on earth that can undo Pakistan"
-console.log(${famous_person},`said,"${message}" `)
+console.log(famous_person,`said,"${message}" `)
 
 // 6. Stripping Names: Store a person’s name, and include some whitespace characters at the beginning and end of the name. Make sure you use each character combination, "\t" and "\n", at least once. Print the name once, so the whitespace around the name is displayed. Then print the name after striping the white spaces.
 //Ans
